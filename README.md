@@ -11,7 +11,9 @@ If we take a closer look we can see a straightforward pattern:
 Take into account all this information SAM3 asks two inputs to accomplish its task: FILENAME PATTERN and a FOLDER. When it runs all mp3 files inside the specified FOLDER will have the ID3 tag automatic fixed. The FILENAME PATTERN is a combination of three supported patterns: [TRACK NUMBER], [ARTIST / BAND] and [MUSIC NAME]. Below are some examples of filenames and the FILENAME PATTERN that must be provided to SAM3 Tagger. To simplify FILENAME PATTERN input SAM3 has the following convention:
 
 [1] -> [TRACK NUMBER]
+
 [2] -> [ARTIST / BAND]
+
 [3] -> [MUSIC NAME]
 
 Examples:
