@@ -15,6 +15,6 @@ Take into account all this information SAM3 asks two inputs to accomplish its ta
 [MUSIC NAME] -> [3]
 
 Examples:
-- "#01__Bon Jovi__Always.mp3" -> "#[1]__[2]__[3]"
+- "#01 __ Bon Jovi __ Always.mp3" -> "#[1] __ [2] __ [3]"
 - "Gamma Ray - Pray.mp3" -> "[2] - [3]"
 - "The Unforgiven. Metallica__01.mp3" -> "[3]. [2]__[1]"
